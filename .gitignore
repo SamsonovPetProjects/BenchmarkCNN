@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+*/
+
+# But not these files
+!.gitignore
+!./CNN/
+!./CNN/CNN.py
+!README.md
+!CNN_benchmark.pdf
